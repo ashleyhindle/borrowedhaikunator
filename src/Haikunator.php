@@ -4,19 +4,31 @@ namespace Atrox;
 
 class Haikunator
 {
+    // Some borrowed with love from http://www.enchantedlearning.com/wordlist/adjectives.shtml
     public static $ADJECTIVES = [
-        "autumn", "hidden", "bitter", "misty", "silent", "empty", "dry", "dark",
-        "summer", "icy", "delicate", "quiet", "white", "cool", "spring", "winter",
-        "patient", "twilight", "dawn", "crimson", "wispy", "weathered", "blue",
-        "billowing", "broken", "cold", "damp", "falling", "frosty", "green",
-        "long", "late", "lingering", "bold", "little", "morning", "muddy", "old",
-        "red", "rough", "still", "small", "sparkling", "throbbing", "shy",
-        "wandering", "withered", "wild", "black", "young", "holy", "solitary",
-        "fragrant", "aged", "snowy", "proud", "floral", "restless", "divine",
-        "polished", "ancient", "purple", "lively", "nameless", "lucky", "odd", "tiny",
-        "free", "dry", "yellow", "orange", "gentle", "tight", "super", "royal", "broad",
-        "steep", "flat", "square", "round", "mute", "noisy", "hushy", "raspy", "soft",
-        "shrill", "rapid", "sweet", "curly", "calm", "jolly", "fancy", "plain", "shinny",
+        "able", "admired", "adorable", "adventurous", "acclaimed", "accurate", "aged", "ancient", "aromatic", "autumn", 
+        "beautiful", "billowing", "bitter", "black", "blue", "bold", "brave", "broad", "broken", "bubbly", 
+        "calm", "cold", "cool", "crimson", "curly", 
+        "damp", "dark", "dawn", "delicate", "divine", "dry", "dry", 
+        "eager", "early", "easy", "edible", "empty", "educated", "enormous", "equal", "essential", "evil",
+        "falling", "fancy", "flat", "floral", "fragrant", "free", "frosty",
+        "gargantuan", "gifted", "giant", "giddy", "gliterring", "graceful", "grand", "granular", "gentle", "green",
+        "hairy", "half", "handmade", "handsome", "handy", "happy", "harmless", "hasty", "healthy, ""hidden", "holy", "hushy",
+        "icy", "ideal", "illustrious", "impeccable", "impressive", "improbable", "incomparable", "intrepid",
+        "jagged", "jaunty", "jovial", "jolly", "joyous", "joyful", "juicy", "junior", "jumbo",
+        "late", "lingering", "little", "lively", "long", "lucky",
+        "misty", "morning", "muddy", "mute",
+        "nameless", "neat", "next", "nocturnal", "noteworthy", "narrow", "near", "nippy", "noisy", 
+        "odd", "old", "orange",
+        "patient", "plain", "polished", "proud", "purple", 
+        "quaint", "quick", "quiet", "quixotic",
+        "rapid", "raspy", "red", "restless", "rough", "round", "royal",
+        "shinny","shrill", "shy", "silent", "small", "snowy", "soft", "solitary", "sparkling", 
+        "spring", "square", "steep", "still", "summer", "super", "sweet",
+        "throbbing", "tight", "tiny", "twilight",
+        "wandering", "weathered", "white", "wild", "windy", "winter", "wispy", "withered",
+        "yawning", "yellow", "yellowish", "young", "youthful", "yummy",
+        "zany", "zealous", "zesty", "zigzag"
     ];
 
     public static $NOUNS = [
