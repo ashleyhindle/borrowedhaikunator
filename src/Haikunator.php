@@ -13,7 +13,7 @@ class Haikunator
         "eager", "early", "easy", "edible", "empty", "educated", "enormous", "equal", "essential", "evil",
         "falling", "fancy", "flat", "floral", "fragrant", "free", "frosty",
         "gargantuan", "gifted", "giant", "giddy", "gliterring", "graceful", "grand", "granular", "gentle", "green",
-        "hairy", "half", "handmade", "handsome", "handy", "happy", "harmless", "hasty", "healthy, ""hidden", "holy", "hushy",
+        "hairy", "half", "handmade", "handsome", "handy", "happy", "harmless", "hasty", "healthy", "hidden", "holy", "hushy",
         "icy", "ideal", "illustrious", "impeccable", "impressive", "improbable", "incomparable", "intrepid",
         "jagged", "jaunty", "jovial", "jolly", "joyous", "joyful", "juicy", "junior", "jumbo",
         "late", "lingering", "little", "lively", "long", "lucky",
